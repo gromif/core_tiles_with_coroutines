@@ -1,4 +1,4 @@
-package com.nevidimka655.tiles_with_coroutines
+package io.gromif.tiles_with_coroutines
 
 import android.annotation.SuppressLint
 import android.service.quicksettings.TileService
